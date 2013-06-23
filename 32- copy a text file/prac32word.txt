@@ -1,0 +1,4 @@
+This message
+is to be copied
+to another
+file
